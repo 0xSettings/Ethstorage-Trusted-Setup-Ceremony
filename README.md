@@ -77,11 +77,8 @@ npm install -g @p0tion/phase2cli
 ```bash 
 phase2cli auth
 ```
-
-*Visit: https://github.com/login/device
-
+Visit: https://github.com/login/device
 Enter the code from your terminal
-
 Authorize ethstorage to proceed
 
 Step 4: Join the Ceremony
@@ -91,29 +88,24 @@ Step 4: Join the Ceremony
 screen -S ceremony
 ```
 
-
 ## Run Contribution Command
 ```bash 
 phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 ```
 
 Press Enter to use a random seed
-
 Or type any combination of letters/numbers manually
-
 Useful Screen Commands
-
 Detach session: Ctrl + A + D
 
 Reattach session:
-
+```bash
 screen -r ceremony
+```
 
 
 End ceremony (inside screen): Ctrl + C
-
 Exit screen: Ctrl + D
-
 Kill session from outside:
 
 screen -XS ceremony quit
@@ -123,12 +115,9 @@ screen -XS ceremony quit
 ```bash 
 screen -ls
 ```
-Notes
-
+## Notes
 Queue wait times vary — patience is required
-
 If interrupted, re-run the same command to resume
-
 After finishing, you’ll get an option to share your contribution on social media 🎉
 
 Step 5: Cleanup & Logout
