@@ -1,6 +1,6 @@
 # EthStorage V1 Trusted Setup Ceremony
 
-![EthStorage V1 Trusted Setup Ceremony](../../Downloads/ethstorage.png)
+![EthStorage V1 Trusted Setup Ceremony](../Ethstorage-Trusted-Setup-Ceremony/img/ethstorage.png)
 
 ## Introduction
 This guide explains how to take part in the **EthStorage V1 Trusted Setup Ceremony**, which generates secure parameters for our **Groth16 zk-SNARK circuits** — a core part of EthStorage’s proof-of-storage system.
