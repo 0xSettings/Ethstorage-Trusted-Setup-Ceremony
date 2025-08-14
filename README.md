@@ -95,7 +95,8 @@ phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 
 Press Enter to use a random seed
 Or type any combination of letters/numbers manually
-Useful Screen Commands
+
+## Useful Screen Commands
 Detach session: Ctrl + A + D
 
 Reattach session:
@@ -105,7 +106,9 @@ screen -r ceremony
 
 
 End ceremony (inside screen): Ctrl + C
+
 Exit screen: Ctrl + D
+
 Kill session from outside:
 
 quit ceremony
